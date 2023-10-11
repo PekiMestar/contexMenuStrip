@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\contexMenuStripControl\bin\Debug\contexMenuStripControl.exe.config
+C:\Users\ucenik\source\repos\contexMenuStripControl\bin\Debug\contexMenuStripControl.exe
+C:\Users\ucenik\source\repos\contexMenuStripControl\bin\Debug\contexMenuStripControl.pdb
+C:\Users\ucenik\source\repos\contexMenuStripControl\obj\Debug\contexMenuStripControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\contexMenuStripControl\obj\Debug\contexMenuStripControl.Form1.resources
+C:\Users\ucenik\source\repos\contexMenuStripControl\obj\Debug\contexMenuStripControl.Properties.Resources.resources
+C:\Users\ucenik\source\repos\contexMenuStripControl\obj\Debug\contexMenuStripControl.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\contexMenuStripControl\obj\Debug\contexMenuStripControl.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\contexMenuStripControl\obj\Debug\contexMenuStripControl.exe
+C:\Users\ucenik\source\repos\contexMenuStripControl\obj\Debug\contexMenuStripControl.pdb
